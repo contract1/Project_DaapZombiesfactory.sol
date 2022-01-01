@@ -6,10 +6,6 @@
 ## Overview
 This repository contains source codes for [Cryptozombies](https://cryptozombies.io/en/) lessons.
 
-The source codes are divided into `courses` and `chapters` as folders and chapters contain Solidity sample codes for each `lesson`.
-
-> _NOTE: Lesson 7, 8, 9 has been removed and currently no source code is available for those lessons._
-
 ## How To Use
 You can simply clone the project to your local storage with following command:
 
