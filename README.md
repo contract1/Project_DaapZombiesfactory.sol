@@ -1,10 +1,6 @@
 # Cryptozombies - Building my first Dapp in Ethereum
 
-![CryptoZombies](https://user-images.githubusercontent.com/13703497/69648502-c8f3db80-10ae-11ea-9d52-ce4d4bbc426a.jpeg)
-
-
-## Overview
-This repository contains source codes for [Cryptozombies](https://cryptozombies.io/en/) lessons.
+![ZPronto](https://user-images.githubusercontent.com/69699575/147861014-d720ab38-005c-4318-b6cb-2da105c85864.jpg)
 
 ## License
 [![License shields](https://img.shields.io/badge/License-GPL%20v3-blue)](https://www.gnu.org/licenses/gpl-3.0)
