@@ -1,3 +1,4 @@
+
 const CryptoZombies = artifacts.require("CryptoZombies");
 contract("CryptoZombies", (accounts) => {
     let [alice, bob] = accounts;
