@@ -1,3 +1,4 @@
+
 async function shouldThrow(promise) {
     try {
         await promise;
