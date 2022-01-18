@@ -1,3 +1,4 @@
+
 const CryptoZombies = artifacts.require("CryptoZombies");
 const utils = require("./helpers/utils");
 const zombieNames = ["Zombie 1", "Zombie 2"];
